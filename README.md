@@ -143,14 +143,6 @@ select any username in the first column of the above file and check the same
 
 
 
-# Telnet for smtp enumeration
-Telnet allows to connect to remote host based on the port no. For smtp port no is 25
-telnet <host address> 25 to connect
-and issue appropriate commands
-  
- ## Output
-
-![Screenshot 2025-03-21 111121](https://github.com/user-attachments/assets/db216d41-8bc6-4c40-8ae2-40040f6dda03)
 
 
   
